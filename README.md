@@ -1,4 +1,4 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE75F7&width=435&lines=Hello+%F0%9F%91%8B++I'm+David+Ervardy)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE75F7&width=435&lines=Hello+%F0%9F%91%8B++I'm+David+Ervardy)](https://git.io/typing-svg)
 <h3 align="center">A passionate fullstack website developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
